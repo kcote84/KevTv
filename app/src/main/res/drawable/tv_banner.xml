@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp" android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#12161D" android:pathData="M0,0H320V180H0Z" />
+    <path android:fillColor="#1A232F" android:pathData="M196,0H320V180H80ZM255,0H320L320,180H162Z" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#2C4058" android:strokeWidth="1.5"
+        android:pathData="M0,30H76L88,42H138M320,143H244L232,155H193M256,0L280,24H320M23,180L43,160H80" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#55B8FF" android:strokeWidth="2.5"
+        android:pathData="M14,40V18H36M284,162H306V140" />
+    <path android:fillColor="#0B1119" android:strokeColor="#55B8FF" android:strokeWidth="2.5"
+        android:strokeLineJoin="round" android:pathData="M31,68L42,57H87L98,68V112L87,123H42L31,112Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M43,72H49V86L60,72H67L54,89L68,108H60L49,92V108H43Z" />
+    <path android:fillColor="#55B8FF" android:pathData="M73,79L89,90L73,101Z" />
+    <!-- Wordmark: KevTV, drawn as paths for predictable TV rendering. -->
+    <path android:fillColor="#FFFFFF" android:pathData="M115,72H122V88L135,72H144L130,89L145,108H136L122,91V108H115Z
+        M159,83C168,83 173,89 173,96V98H153C154,102 157,104 161,104C164,104 166,103 168,101L172,105C169,108 165,110 160,110C152,110 146,104 146,97C146,89 151,83 159,83Z
+        M153,94H166C166,91 163,88 159,88C156,88 154,90 153,94Z
+        M174,84H181L187,101L193,84H200L190,108H183Z" />
+    <path android:fillColor="#55B8FF" android:pathData="M201,72H232V78H220V108H213V78H201Z
+        M231,72H239L249,99L259,72H267L253,108H245Z" />
+    <path android:fillColor="#55B8FF" android:pathData="M115,122H204V125H115ZM211,122H226V125H211ZM232,122H238V125H232Z" />
+</vector>

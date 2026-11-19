@@ -1,0 +1,17 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/kev_electric_blue</item>
+        <item name="android:windowBackground">@color/kev_graphite</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:alertDialogTheme">@style/KevDialog</item>
+    </style>
+    <style name="KevDialog" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@color/kev_electric_blue</item>
+        <item name="android:colorBackground">@color/kev_panel</item>
+        <item name="android:textColorPrimary">@color/kev_white</item>
+        <item name="android:textColorSecondary">@color/kev_muted</item>
+    </style>
+</resources>

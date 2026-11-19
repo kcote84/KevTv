@@ -1,0 +1,13 @@
+<resources>
+    <color name="kev_graphite">#12161D</color>
+    <color name="kev_panel">#202935</color>
+    <color name="kev_row">#1A232F</color>
+    <color name="kev_electric_blue">#55B8FF</color>
+    <color name="kev_muted">#BCCBDA</color>
+    <color name="kev_ink">#0B1119</color>
+    <color name="kev_white">#FFFFFF</color>
+    <color name="kev_fade_bottom">#EB0B1119</color>
+    <color name="kev_fade_center">#990B1119</color>
+    <color name="kev_fade_top">#000B1119</color>
+    <color name="kev_transport_idle">#A012161D</color>
+</resources>
